@@ -2,4 +2,4 @@ diffusers
 transformers
 accelerate
 gputil
-PyQt6
+hf_xet
